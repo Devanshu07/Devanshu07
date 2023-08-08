@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devanshu Srivastava</h1>
 <h3 align="center">Learn & Make Stuffs</h3>
 
+<img align="right" alt="coding" width= "400px;" src="![image](https://github.com/Devanshu07/Devanshu07/assets/84028771/2cdcf76d-065f-4b0c-b8c7-ba46c87d9c80)">
+>
+
 - 🔭 I’m currently studying **Information Science**
 
 - 💬 Ask me about **java, react and nodejs**
